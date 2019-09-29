@@ -1,6 +1,7 @@
 {
     "WAC-Lighting":{
         "version_name":"v1.1.0",
-        "version_code":46
+        "version_code":46,
+        "total_size":0,
     }
 }
